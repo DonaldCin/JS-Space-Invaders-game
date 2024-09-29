@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Pixelify Sans", sans-serif;
+    text-align: center;
+}
+body{
+    margin-top: 50px;
+    background: rgb(12, 12, 12);
+    
+}
+h1{
+    font-size: 80px;
+    color: rgb(195, 142, 245);
+}
+#board{
+    
+    background: url(Images/nightsky.jpg);
+    background-size: cover;
+}
